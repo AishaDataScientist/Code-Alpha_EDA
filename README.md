@@ -43,7 +43,7 @@ No external dataset download is required.
 
 ---
 
-## 📊 Exploratory Analysis
+## Exploratory Analysis
 
 The project performs the following analyses:
 
@@ -82,7 +82,7 @@ eda_titanic.png
 
 ---
 
-## 📈 Statistical Analysis
+## Statistical Analysis
 
 An **Independent Two-Sample T-Test** is performed to determine whether there is a statistically significant difference in passenger age between survivors and non-survivors.
 
@@ -104,7 +104,7 @@ The project reports:
 
 ---
 
-## 📋 Key Insights Generated
+## Key Insights Generated
 
 The script automatically calculates:
 
