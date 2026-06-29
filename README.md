@@ -1,4 +1,4 @@
-# Titanic Exploratory Data Analysis (EDA)
+# Code-Alpha_EDA
 
 A comprehensive **Exploratory Data Analysis (EDA)** project performed on the famous **Titanic Dataset** using **Python**, **Pandas**, **NumPy**, **Seaborn**, **Matplotlib**, and **SciPy**.
 
